@@ -1,357 +1,47 @@
-<!-- ===================== CYBERTECHMAHADUUU ===================== -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=300&section=header&text=CYBERTECHMAHADUUU&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=00e5ff&strokeWidth=1&desc=CYBERSECURITY%20%E2%80%A2%20WEB%20SECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS&descSize=19&descAlignY=60" width="100%" alt="CyberTechMahaduuu"/>
 
-<div align="center">
+<a href="https://github.com/mahadevsurya14-sys"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&height=60&lines=ACCESS+GRANTED;CYBERSECURITY+FRESHER;WEB+SECURITY;NETWORKING;DIGITAL+FORENSICS;KALI+LINUX;LEARN+%7C+BUILD+%7C+SECURE;SYSTEM+STATUS%3A+ONLINE" alt="typing"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:00ff88,50:00e5ff,75:8a2be2,100:ff0055&height=230&section=header&text=CYBERTECHMAHADUUU&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CYBERSECURITY%20%7C%20WEB%20SECURITY%20%7C%20DIGITAL%20FORENSICS&descAlignY=58&descSize=16"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=720&height=40&lines=%3E+SCANNING+NETWORK...;%3E+PORTS%3A+22+80+443+8080;%3E+ENCRYPTION%3A+ACTIVE;%3E+THREAT+LEVEL%3A+MONITORED;%3E+MODE%3A+RECON" alt="scan"/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=mahadevsurya14-sys&style=for-the-badge&color=00e5ff&label=VISITORS&labelColor=000000"/> <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/MODE-LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE-ff2bd6?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%3E_+Initializing+CyberTechMahaduuu...;%3E_+Cybersecurity+Fresher;%3E_+Web+Security+%7C+Networking+%7C+Digital+Forensics;%3E_+Kali+Linux+%7C+Burp+Suite+%7C+Nmap+%7C+Wireshark;%3E_+Learning.+Testing.+Securing.;%3E_+SYSTEM+STATUS%3A+ONLINE+%E2%9C%93"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=760&lines=MAHADEV+SURYAVANSHI;CYBERSECURITY+FRESHER" alt=""/>
 
-<br>
+<img src="https://img.shields.io/badge/BCA-GRADUATE-00e5ff?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/MCA-STUDENT-ff2bd6?style=for-the-badge&labelColor=000000"/> <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=statuspage&logoColor=black"/>
-<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20FRESHER-00e5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-8a2be2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OS-KALI%20LINUX-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00ff9c?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Web_Security-00e5ff?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Networking-3b82f6?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Digital_Forensics-a855f7?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Vulnerability_Assessment-ff2bd6?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/SOC_%2F_Defensive_Security-ff9500?style=flat-square&labelColor=000000"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=SECURITY+ARSENAL" alt=""/> <br/> <img src="https://skillicons.dev/icons?i=linux,windows,python,java,mysql,bash&perline=6" alt="skills"/> <br/><br/>
 
----
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/Nmap-00e5ff?style=for-the-badge&logo=nmap&logoColor=black"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-2f6df0?style=for-the-badge&logo=metasploit&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logo=tenable&logoColor=white"/><img src="https://img.shields.io/badge/Wazuh-3b82f6?style=for-the-badge&logo=wazuh&logoColor=white"/><img src="https://img.shields.io/badge/SQLmap-ff2bd6?style=for-the-badge&labelColor=000000"/><img src="https://img.shields.io/badge/Autopsy-a855f7?style=for-the-badge&labelColor=000000"/><img src="https://img.shields.io/badge/FTK_Imager-ff9500?style=for-the-badge&labelColor=000000"/><img src="https://img.shields.io/badge/OSINT-00ff9c?style=for-the-badge&labelColor=000000"/>
 
-## `root@cyberTechMahaduuu:~$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d55,50:ff2bd6,100:ff9500&height=150&section=header&text=RED%20TEAM&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=OFFENSIVE%20%2F%2F%20BREAK%20TO%20UNDERSTAND&descSize=15&descAlignY=68" width="100%" alt=""/>
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                     CYBERTECHMAHADUUU                             ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  > Cybersecurity Fresher                                           ║
-║  > BCA Graduate | MCA Student                                      ║
-║  > Web Security Enthusiast                                         ║
-║  > Networking & Digital Forensics                                  ║
-║  > Kali Linux User                                                 ║
-║                                                                    ║
-║  [+] Exploring Cybersecurity                                       ║
-║  [+] Building Security Projects                                    ║
-║  [+] Practicing Web Vulnerability Assessment                       ║
-║  [+] Learning SOC & Defensive Security                             ║
-║                                                                    ║
-║  SYSTEM STATUS : ████████████████████ 100% ONLINE                 ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/Reconnaissance-ff2d55?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Enumeration-ff2bd6?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Web_Security-ff9500?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Vulnerability_Assessment-ff2d55?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/XSS-ff2bd6?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/SQL_Injection-ff9500?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/IDOR-ff2d55?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Authentication_Testing-ff2bd6?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Logic_Flaws-ff9500?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Burp_Suite-ff2d55?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Nmap-ff2bd6?style=for-the-badge&labelColor=000000"/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:3b82f6,100:a855f7&height=150&section=header&text=BLUE%20TEAM&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DEFENSIVE%20%2F%2F%20DETECT%20AND%20RESPOND&descSize=15&descAlignY=68" width="100%" alt=""/>
 
-### `⚡ CYBER MISSION CONTROL ⚡`
+<img src="https://img.shields.io/badge/SOC-00e5ff?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/SIEM-3b82f6?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Wazuh-a855f7?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-00e5ff?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Network_Analysis-3b82f6?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Threat_Detection-a855f7?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Incident_Response-00e5ff?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Digital_Forensics-3b82f6?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://img.shields.io/badge/RECON-████████████████-00ff88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB%20SECURITY-██████████████░░-00e5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FORENSICS-████████████░░░░-8a2be2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOC-██████████░░░░░░-ff0055?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=FFE600&center=true&vCenter=true&width=760&lines=PROJECT+SHOWCASE" alt=""/> <br/> <img src="https://img.shields.io/badge/01-BUGBOUNTY--AI-00e5ff?style=for-the-badge&labelColor=000000"/> <br/> <sub><code>SCOPE</code> &rarr; <code>RECON</code> &rarr; <code>ENUMERATION</code> &rarr; <code>VULN DISCOVERY</code> &rarr; <code>VALIDATION</code> &rarr; <code>REPORTING</code></sub> <br/><sub>AI-assisted security workflow, from scope to final report.</sub> <br/><br/> <a href="https://github.com/mahadevsurya14-sys/bugbounty-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadevsurya14-sys&repo=bugbounty-ai&bg_color=00000000&hide_border=true&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9" alt="bugbounty-ai"/></a> <br/> <img src="https://img.shields.io/badge/02-WEB--VULNERABILITY--ASSESSMENT--TOOL-ff2bd6?style=for-the-badge&labelColor=000000"/> <br/> <a href="https://github.com/mahadevsurya14-sys/Web-Vulnerability-Assessment-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadevsurya14-sys&repo=Web-Vulnerability-Assessment-Tool&bg_color=00000000&hide_border=true&title_color=ff2bd6&icon_color=00e5ff&text_color=c9d1d9" alt="web vuln tool"/></a> <br/>
 
-</div>
+<img src="https://img.shields.io/badge/03-VURNCHECK-00ff9c?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Web_Vulnerability_Assessment_Tool-a855f7?style=flat-square&labelColor=000000"/> <br/><br/> <img src="https://img.shields.io/badge/04-PHISHING_DETECTION-ff9500?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Phishing_Indicator_Analysis-ff2d55?style=flat-square&labelColor=000000"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:00e5ff,100:a855f7&height=130&section=header&text=CYBER%20LAB&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=KALI%20%E2%80%A2%20BURP%20%E2%80%A2%20NMAP%20%E2%80%A2%20WIRESHARK%20%E2%80%A2%20WAZUH%20%E2%80%A2%20AUTOPSY%20%E2%80%A2%20WEB%20LABS&descSize=15&descAlignY=68" width="100%" alt=""/>
 
-# `🧠 SECURITY ARSENAL`
+<img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/><img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/NMAP-00e5ff?style=for-the-badge&logo=nmap&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/WAZUH-3b82f6?style=for-the-badge&logo=wazuh&logoColor=white"/><img src="https://img.shields.io/badge/AUTOPSY-a855f7?style=for-the-badge&labelColor=000000"/><img src="https://img.shields.io/badge/WEB_SECURITY_LABS-ff2bd6?style=for-the-badge&labelColor=000000"/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=FFE600&center=true&vCenter=true&width=760&lines=CERTIFICATIONS+%26+TRAINING" alt=""/> <br/> <img src="https://img.shields.io/badge/CYBERSECURITY_%26_ETHICAL_HACKING-Naresh_IT_%7C_May--Aug_2026-00e5ff?style=for-the-badge&logo=hackthebox&logoColor=00e5ff"/> <br/> <img src="https://img.shields.io/badge/ETHICAL_HACKING_%2F_CYBERSECURITY-Tutedude_%7C_2026-ff2bd6?style=for-the-badge&logo=letsencrypt&logoColor=ff2bd6"/> <br/> <img src="https://img.shields.io/badge/CYBER_FORGE_WORKSHOP-Certificate_of_Participation-ff9500?style=for-the-badge&logo=authy&logoColor=ff9500"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&lines=EDUCATION" alt=""/> <img src="https://img.shields.io/badge/MCA-Marathwada_Institute_of_Technology%2C_Chhatrapati_Sambhajinagar-a855f7?style=for-the-badge&labelColor=000000"/> <br/> <img src="https://img.shields.io/badge/BCA-Mahatma_Gandhi_Mahavidyalaya%2C_Ahmedpur_%7C_CGPA_8.47-00e5ff?style=for-the-badge&labelColor=000000"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=GITHUB+TELEMETRY" alt=""/> <br/> <img src="https://github-readme-stats.vercel.app/api?username=mahadevsurya14-sys&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff9c&icon_color=ff2bd6&text_color=00e5ff&text_bold=true&ring_color=a855f7" height="170" alt="stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadevsurya14-sys&layout=compact&hide_border=true&bg_color=00000000&title_color=ff9500&text_color=00e5ff&langs_count=8" height="170" alt="langs"/> <br/> <img src="https://streak-stats.demolab.com?user=mahadevsurya14-sys&hide_border=true&background=00000000&ring=ff2bd6&fire=ff9500&currStreakNum=00ff9c&sideNums=00e5ff&currStreakLabel=a855f7&sideLabels=3b82f6&dates=ffffff" alt="streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadevsurya14-sys&bg_color=00000000&color=00ff9c&line=ff2bd6&point=00e5ff&area=true&area_color=a855f7&hide_border=true&hide_title=true" width="100%" alt="activity"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=mahadevsurya14-sys&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,50:ff2bd6,100:a855f7&height=130&section=header&text=CURRENT%20MISSION&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2BD6&center=true&vCenter=true&width=720&height=50&lines=Advanced+Web+Security;SOC+%2F+SIEM;Incident+Response;Digital+Forensics;Cybersecurity+Automation;Building+Security+Projects" alt="mission"/> <br/>
 
-### Operating Systems
+<img src="https://img.shields.io/badge/WEB_SECURITY-IN_PROGRESS-00e5ff?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/SOC_%2F_SIEM-IN_PROGRESS-a855f7?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/INCIDENT_RESPONSE-IN_PROGRESS-ff2bd6?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/FORENSICS-IN_PROGRESS-ff9500?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/AUTOMATION-IN_PROGRESS-00ff9c?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/PROJECTS-IN_PROGRESS-ffe600?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=FF2D55&center=true&vCenter=true&width=760&lines=SECURITY+PHILOSOPHY" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4500&pause=2500&color=00FF9C&center=true&vCenter=true&width=900&height=70&lines=%22Think+like+an+attacker.%22;%22Defend+like+a+security+engineer.%22" alt="quote"/> <br/>
 
-### Programming & Database
+<img src="https://img.shields.io/badge/RECON-00ff9c?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/ENUMERATE-00e5ff?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/ANALYZE-3b82f6?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/TEST_RESPONSIBLY-a855f7?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/DETECT-ff2bd6?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/DEFEND-ff2d55?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/LEARN-ff9500?style=for-the-badge&labelColor=000000"/> <b>→</b> <img src="https://img.shields.io/badge/REPEAT-ffe600?style=for-the-badge&labelColor=000000"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,bash&theme=dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=900&height=40&lines=RECON+%E2%86%92+ENUMERATE+%E2%86%92+ANALYZE+%E2%86%92+TEST+RESPONSIBLY+%E2%86%92+DETECT+%E2%86%92+DEFEND+%E2%86%92+LEARN+%E2%86%92+REPEAT" alt="loop"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,25:00e5ff,50:a855f7,75:ff2bd6,100:ff9500&height=3&section=header" width="100%" alt=""/> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&lines=ESTABLISH+CONNECTION" alt=""/> <br/>
 
-### Security Tools
+<a href="https://github.com/mahadevsurya14-sys"><img src="https://img.shields.io/badge/GITHUB-00ff9c?style=for-the-badge&logo=github&logoColor=black"/></a> <a href="https://www.linkedin.com/in/mahadev-suryavanshi-b177a7305/"><img src="https://img.shields.io/badge/LINKEDIN-00e5ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a> <a href="https://medium.com/@mahadevsurya14"><img src="https://img.shields.io/badge/MEDIUM-ff2bd6?style=for-the-badge&logo=medium&logoColor=white"/></a> <br/><br/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-00e5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wazuh-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLmap-FF0055?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Autopsy-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FTK%20Imager-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSINT-00E5FF?style=for-the-badge"/>
-
-</div>
-
----
-
-# `⚔️ RED TEAM // BLUE TEAM`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔴 RED TEAM
-
-```text
-[ RECON ]
-   ↓
-[ ENUMERATION ]
-   ↓
-[ SCANNING ]
-   ↓
-[ VULNERABILITY ]
-   ↓
-[ EXPLOITATION ]
-   ↓
-[ REPORTING ]
-```
-
-**Focus**
-
-* Web Vulnerability Assessment
-* Reconnaissance
-* Enumeration
-* Burp Suite
-* Nmap
-* SQL Injection
-* XSS
-* IDOR
-* Authentication Testing
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔵 BLUE TEAM
-
-```text
-[ LOGS ]
-   ↓
-[ MONITORING ]
-   ↓
-[ DETECTION ]
-   ↓
-[ ANALYSIS ]
-   ↓
-[ RESPONSE ]
-   ↓
-[ INVESTIGATION ]
-```
-
-**Focus**
-
-* SOC Fundamentals
-* SIEM
-* Incident Response
-* Network Analysis
-* Wazuh
-* MITRE ATT&CK
-* Digital Forensics
-* Threat Detection
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `💻 PROJECT DATABASE`
-
-<div align="center">
-
-<a href="https://github.com/mahadevsurya14-sys/bugbounty-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadevsurya14-sys&repo=bugbounty-ai&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mahadevsurya14-sys/Web-Vulnerability-Assessment-Tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadevsurya14-sys&repo=Web-Vulnerability-Assessment-Tool&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-### `🔍 VurnCheck`
-
-```text
-╭──────────────────────────────────────────────╮
-│       WEB VULNERABILITY ASSESSMENT TOOL      │
-├──────────────────────────────────────────────┤
-│                                              │
-│  Target        → Web Application             │
-│  Scanner       → Automated Checks             │
-│  Focus         → Common Web Vulnerabilities  │
-│  Output        → Security Findings            │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-### `🤖 BugBounty-AI`
-
-```text
-RECON
-  │
-  ├── Scope
-  ├── Reconnaissance
-  ├── Enumeration
-  ├── Vulnerability Discovery
-  ├── Validation
-  └── Report
-          │
-          ▼
-      AI ASSISTED
-      SECURITY WORKFLOW
-```
-
-### `🎣 Phishing Detection`
-
-Security-focused project designed to analyze suspicious URLs/messages and identify potential phishing indicators.
-
----
-
-# `🛰️ CYBER LAB`
-
-<div align="center">
-
-```text
-        ┌─────────────────────────────────────────┐
-        │             CYBER LAB ONLINE            │
-        ├─────────────────────────────────────────┤
-        │                                         │
-        │   🖥️  KALI LINUX                       │
-        │   🔎  NMAP                              │
-        │   🕵️  BURP SUITE                       │
-        │   📡  WIRESHARK                         │
-        │   🛡️  WAZUH                             │
-        │   💾  AUTOPSY                           │
-        │   🔐  WEB SECURITY LABS                 │
-        │                                         │
-        │        [ ALL SYSTEMS OPERATIONAL ]      │
-        └─────────────────────────────────────────┘
-```
-
-<img src="https://skillicons.dev/icons?i=linux,python,bash,java,mysql,git,github&theme=dark"/>
-
-</div>
-
----
-
-# `🏆 CERTIFICATION LOG`
-
-```text
-[01] Cybersecurity & Ethical Hacking Training
-     Naresh IT Technologies
-     May — August 2026
-
-[02] Ethical Hacking / Cybersecurity Training
-     Tutedude
-     2026
-
-[03] Cyber Forge Workshop
-     Certificate of Participation
-```
-
----
-
-# `🎓 EDUCATION`
-
-```text
-╔══════════════════════════════════════════════════╗
-║ MCA                                              ║
-║ Marathwada Institute of Technology              ║
-║ Chhatrapati Sambhajinagar                        ║
-╠══════════════════════════════════════════════════╣
-║ BCA                                              ║
-║ Mahatma Gandhi Mahavidyalaya, Ahmedpur          ║
-║ CGPA : 8.47                                      ║
-╚══════════════════════════════════════════════════╝
-```
-
----
-
-# `📊 GITHUB COMMAND CENTER`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahadevsurya14-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadevsurya14-sys&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=mahadevsurya14-sys&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# `📡 CURRENT OPERATIONS`
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                 CURRENT OPERATIONS                  │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  [✓] Networking Fundamentals                       │
-│  [✓] Linux / Kali Linux                             │
-│  [✓] Web Security Fundamentals                      │
-│  [✓] Burp Suite Practice                            │
-│  [✓] Nmap / Recon                                   │
-│  [✓] Digital Forensics                              │
-│  [✓] Security Projects                              │
-│  [>] SOC / SIEM                                     │
-│  [>] Incident Response                              │
-│  [>] Advanced Web Security                          │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-# `🔥 SECURITY MINDSET`
-
-<div align="center">
-
-> **"Think like an attacker. Defend like a security engineer."**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF0055&center=true&vCenter=true&width=700&lines=RECON.;ENUMERATE.;ANALYZE.;EXPLOIT+RESPONSIBLY.;DETECT.;DEFEND.;LEARN.;REPEAT."/>
-
-</div>
-
----
-
-# `🌐 CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/mahadevsurya14-sys">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahadev-suryavanshi-b177a7305/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@mahadevsurya14">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,25:8a2be2,50:00e5ff,75:00ff88,100:050505&height=120&section=footer"/>
-
-### `>_ CONNECTION TERMINATED... OR IS IT?`
-
-**CYBERTECHMAHADUUU • 2026**
-
-</div>
-
-<!-- ===================== END ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,25:ff2bd6,50:a855f7,75:00e5ff,100:00ff9c&height=260&section=footer&text=THE%20HUNT%20NEVER%20ENDS.&fontSize=44&fontColor=ffffff&fontAlignY=62&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="THE HUNT NEVER ENDS."/> </div>
