@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ CYBER HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030806,35:09291D,70:0B3D2E,100:FF7A00&height=280&section=header&text=CYBERTECHMAHADUUU&fontSize=52&fontColor=E8FFF4&fontAlignY=36&animation=fadeIn&stroke=FF7A00&strokeWidth=1&desc=CYBERSECURITY%20%E2%80%A2%20WEB%20SECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030806,35:09291D,70:0B3D2E,100:FF7A00&height=280&section=header&text=CyberTechMahaduuu&fontSize=52&fontColor=E8FFF4&fontAlignY=36&animation=fadeIn&stroke=FF7A00&strokeWidth=1&desc=CYBERSECURITY%20%E2%80%A2%20WEB%20SECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS&descSize=17&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1200&color=FF8A1F&center=true&vCenter=true&width=850&height=42&lines=%5B+SYSTEM+ONLINE+%5D+%2F%2F+SECURITY+MONITORING+ACTIVE;THREAT+INTELLIGENCE+%7C+WEB+SECURITY+%7C+FORENSICS;AUTHORIZED+OPERATIONS+ONLY+%E2%80%94+LEARN+%7C+BUILD+%7C+SECURE" alt="system status"/>
 
