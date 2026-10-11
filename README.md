@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ═══════════════════════ CYBER HEADER ═══════════════════════ -->
@@ -123,7 +124,9 @@ stroke="#0B6B4F" stroke-width="2" fill="none"/>
 <circle cx="370" cy="95" r="5" fill="#FF7A00"/>
 <circle cx="680" cy="95" r="5" fill="#FFB000"/>
 
-<text x="370" y="126" fill="#E8FFF4" text-anchor="middle" font-size="11" font-family="monospace">THREAT ANALYSIS</text> <text x="680" y="126" fill="#E8FFF4" text-anchor="middle" font-size="11" font-family="monospace">DEFENSE</text> </svg>
+<text x="370" y="126" fill="#E8FFF4" text-anchor="middle" font-size="11" font-family="monospace">THREAT ANALYSIS</text>
+<text x="680" y="126" fill="#E8FFF4" text-anchor="middle" font-size="11" font-family="monospace">DEFENSE</text>
+</svg>
 
 <br/>
 
@@ -167,9 +170,11 @@ stroke="#0B6B4F" stroke-width="2" fill="none"/>
 <circle cx="180" cy="75" r="38" fill="#30140A" stroke="#FF7A00" stroke-width="2"/>
 <circle cx="670" cy="75" r="38" fill="#082B20" stroke="#8FFFCB" stroke-width="2"/>
 
-<text x="180" y="71" fill="#FF8A1F" text-anchor="middle" font-size="14" font-family="monospace">RED TEAM</text> <text x="180" y="88" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">ATTACK</text>
+<text x="180" y="71" fill="#FF8A1F" text-anchor="middle" font-size="14" font-family="monospace">RED TEAM</text>
+<text x="180" y="88" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">ATTACK</text>
 
-<text x="670" y="71" fill="#8FFFCB" text-anchor="middle" font-size="14" font-family="monospace">BLUE TEAM</text> <text x="670" y="88" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">DEFEND</text>
+<text x="670" y="71" fill="#8FFFCB" text-anchor="middle" font-size="14" font-family="monospace">BLUE TEAM</text>
+<text x="670" y="88" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">DEFEND</text>
 
 <circle cx="425" cy="75" r="22" fill="#111E18" stroke="#FFB000" stroke-width="2"/>
 <text x="425" y="79" fill="#FFB000" text-anchor="middle" font-size="10" font-family="monospace">SOC</text>
@@ -209,9 +214,14 @@ stroke="#0B6B4F" stroke-width="2" fill="none"/>
 <circle cx="800" cy="105" r="28" fill="#082B20" stroke="#8FFFCB" stroke-width="2"/>
 </g>
 
-<text x="100" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">ATTACK</text> <text x="300" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">LAB</text> <text x="600" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">SOC</text> <text x="800" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">DEFENSE</text>
+<text x="100" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">ATTACK</text>
+<text x="300" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">LAB</text>
+<text x="600" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">SOC</text>
+<text x="800" y="109" fill="#FFFFFF" text-anchor="middle" font-size="10" font-family="monospace">DEFENSE</text>
 
-<text x="450" y="48" fill="#FF8A1F" text-anchor="middle" font-size="10" font-family="monospace">VULNERABILITY TESTING</text> <text x="450" y="180" fill="#8FFFCB" text-anchor="middle" font-size="10" font-family="monospace">MONITOR → DETECT → INVESTIGATE → RESPOND</text> </svg>
+<text x="450" y="48" fill="#FF8A1F" text-anchor="middle" font-size="10" font-family="monospace">VULNERABILITY TESTING</text>
+<text x="450" y="180" fill="#8FFFCB" text-anchor="middle" font-size="10" font-family="monospace">MONITOR → DETECT → INVESTIGATE → RESPOND</text>
+</svg>
 
 <br/>
 
@@ -261,9 +271,16 @@ stroke="#0B6B4F" stroke-width="2" fill="none"/>
 <circle cx="500" cy="65" r="12" fill="#0B3D2E" stroke="#FF7A00" stroke-width="2"/>
 <circle cx="700" cy="65" r="12" fill="#0B3D2E" stroke="#FFB000" stroke-width="2"/>
 
-<text x="120" y="35" fill="#8FFFCB" text-anchor="middle" font-size="11" font-family="monospace">BCA</text> <text x="300" y="35" fill="#8FFFCB" text-anchor="middle" font-size="11" font-family="monospace">CYBER</text> <text x="500" y="35" fill="#FF8A1F" text-anchor="middle" font-size="11" font-family="monospace">MCA</text> <text x="700" y="35" fill="#FFB000" text-anchor="middle" font-size="11" font-family="monospace">SECURITY</text>
+<text x="120" y="35" fill="#8FFFCB" text-anchor="middle" font-size="11" font-family="monospace">BCA</text>
+<text x="300" y="35" fill="#8FFFCB" text-anchor="middle" font-size="11" font-family="monospace">CYBER</text>
+<text x="500" y="35" fill="#FF8A1F" text-anchor="middle" font-size="11" font-family="monospace">MCA</text>
+<text x="700" y="35" fill="#FFB000" text-anchor="middle" font-size="11" font-family="monospace">SECURITY</text>
 
-<text x="120" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">FOUNDATION</text> <text x="300" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">SKILLS</text> <text x="500" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">ADVANCE</text> <text x="700" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">OPERATIONS</text> </svg>
+<text x="120" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">FOUNDATION</text>
+<text x="300" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">SKILLS</text>
+<text x="500" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">ADVANCE</text>
+<text x="700" y="100" fill="#6A9B87" text-anchor="middle" font-size="9" font-family="monospace">OPERATIONS</text>
+</svg>
 
 <br/>
 
@@ -273,6 +290,48 @@ stroke="#0B6B4F" stroke-width="2" fill="none"/>
 <img src="https://img.shields.io/badge/MCA-IN_PROGRESS-FF7A00?style=for-the-badge&labelColor=030806"/>
 
 <br/><br/>
+
+<!-- ═══════════════ CISCO ETHICAL HACKER CERTIFICATION ═══════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B07.5%5D+%2F%2F+CERTIFICATIONS+%E2%80%94+VERIFIED+CREDENTIALS" alt="certifications"/>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7">
+<img src="https://img.shields.io/badge/CISCO-ETHICAL_HACKER-0B3D2E?style=for-the-badge&logo=cisco&logoColor=8FFFCB&labelColor=030806" alt="Cisco Ethical Hacker verified badge"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ISSUER-CISCO_NETWORKING_ACADEMY-0B6B4F?style=flat-square&labelColor=030806" alt="Cisco Networking Academy"/>
+<img src="https://img.shields.io/badge/STATUS-VERIFIED-FF7A00?style=flat-square&labelColor=030806" alt="Verified"/>
+<img src="https://img.shields.io/badge/ISSUED-OCT_11_2026-0B3D2E?style=flat-square&labelColor=030806" alt="Issued October 11, 2026"/>
+
+<br/><br/>
+
+**🔐 Cisco Networking Academy — Ethical Hacker**
+
+<p>
+Completed the Cisco Networking Academy Ethical Hacker course and earned a verified digital badge. Developed foundational knowledge of ethical hacking, vulnerability assessment, penetration testing, security testing, and mitigation strategies through hands-on cybersecurity activities.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ETHICAL_HACKING-0B3D2E?style=flat-square&labelColor=030806" alt="Ethical Hacking"/>
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-0B3D2E?style=flat-square&labelColor=030806" alt="Penetration Testing"/>
+<img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-0B3D2E?style=flat-square&labelColor=030806" alt="Vulnerability Assessment"/>
+<img src="https://img.shields.io/badge/KALI_LINUX-0B3D2E?style=flat-square&labelColor=030806" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/SECURITY_TESTING-0B3D2E?style=flat-square&labelColor=030806" alt="Security Testing"/>
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7">
+<img src="https://img.shields.io/badge/VIEW_VERIFIED_BADGE-OPEN_ON_CREDLY-FF7A00?style=for-the-badge&labelColor=030806" alt="View verified badge on Credly"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════ END CISCO CERTIFICATION ═══════════════ -->
 
 <!-- ═══════════════ ACTIVE OPERATIONS ═══════════════ -->
 
