@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mahadevsurya14-sys&style=for-the-badge&color=0B3D2E&label=VISITORS&labelColor=030806"/>
-
 <br/>
 <img src="assets/row-status.svg" width="80%" alt="status"/>
 
@@ -38,12 +36,8 @@
 
 <br/>
 
-<a href="https://github.com/mahadevsurya14-sys/bugbounty-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadevsurya14-sys&repo=bugbounty-ai&bg_color=030806&hide_border=true&title_color=FF8A1F&icon_color=8FFFCB&text_color=E8FFF4"/>
-</a>
-<a href="https://github.com/mahadevsurya14-sys/Web-Vulnerability-Assessment-Tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahadevsurya14-sys&repo=Web-Vulnerability-Assessment-Tool&bg_color=030806&hide_border=true&title_color=FF8A1F&icon_color=8FFFCB&text_color=E8FFF4"/>
-</a>
+<a href="https://github.com/mahadevsurya14-sys/bugbounty-ai"><img src="assets/project-bugbounty.svg" width="440" alt="bugbounty-ai"/></a>
+<a href="https://github.com/mahadevsurya14-sys/Web-Vulnerability-Assessment-Tool"><img src="assets/project-vulntool.svg" width="440" alt="Web-Vulnerability-Assessment-Tool"/></a>
 
 <br/><br/>
 
@@ -67,9 +61,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahadevsurya14-sys&show_icons=true&hide_border=true&bg_color=030806&title_color=FF8A1F&icon_color=8FFFCB&text_color=E8FFF4&ring_color=FF7A00" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadevsurya14-sys&layout=compact&hide_border=true&bg_color=030806&title_color=FF8A1F&text_color=E8FFF4&langs_count=8" height="170" alt="Top languages"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=mahadevsurya14-sys&hide_border=true&background=030806&ring=FF7A00&fire=FF8A1F&currStreakNum=8FFFCB&sideNums=E8FFF4&currStreakLabel=FFB000&sideLabels=8FFFCB&dates=6A9B87" alt="GitHub streak"/>
@@ -77,10 +68,6 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadevsurya14-sys&bg_color=030806&color=8FFFCB&line=0B6B4F&point=FF7A00&area=true&area_color=0B3D2E&hide_border=true&hide_title=true" width="95%" alt="activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahadevsurya14-sys&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies"/>
 
 <br/><br/>
 
