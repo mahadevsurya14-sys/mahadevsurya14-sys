@@ -7,10 +7,11 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mahadevsurya14-sys&style=for-the-badge&color=0B3D2E&label=VISITORS&labelColor=030806"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF7A00?style=for-the-badge&labelColor=030806"/>
-<img src="https://img.shields.io/badge/CISCO-ETHICAL_HACKER-0B6B4F?style=for-the-badge&logo=cisco&logoColor=8FFFCB&labelColor=030806"/>
 
-<br/><br/>
+<br/>
+<img src="assets/row-status.svg" width="80%" alt="status"/>
+
+<br/>
 <img src="assets/divider.svg" width="90%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1400&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B01%5D+%2F%2F+IDENTITY+%26+MISSION" alt="identity"/>
@@ -19,11 +20,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/WEB_SECURITY-0B6B4F?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/NETWORKING-0B6B4F?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/DIGITAL_FORENSICS-FF7A00?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/VULNERABILITY_ASSESSMENT-0B6B4F?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/SOC_DEFENSE-FF8A1F?style=flat-square&labelColor=030806"/>
+<img src="assets/row-focus.svg" width="95%" alt="focus areas"/>
 
 <br/><br/>
 
@@ -33,14 +30,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BURP_SUITE-0B3D2E?style=for-the-badge&logo=burpsuite&logoColor=FF7A00"/>
-<img src="https://img.shields.io/badge/NMAP-0B3D2E?style=for-the-badge&logo=nmap&logoColor=FFB000"/>
-<img src="https://img.shields.io/badge/WIRESHARK-0B3D2E?style=for-the-badge&logo=wireshark&logoColor=8FFFCB"/>
-<img src="https://img.shields.io/badge/METASPLOIT-0B3D2E?style=for-the-badge&logoColor=FF7A00"/>
-<img src="https://img.shields.io/badge/NESSUS-0B3D2E?style=for-the-badge&logoColor=FFB000"/>
-<img src="https://img.shields.io/badge/WAZUH-0B3D2E?style=for-the-badge&logoColor=8FFFCB"/>
-<img src="https://img.shields.io/badge/AUTOPSY-0B3D2E?style=for-the-badge&logoColor=FF7A00"/>
-<img src="https://img.shields.io/badge/FTK_IMAGER-0B3D2E?style=for-the-badge&logoColor=FFB000"/>
+<img src="assets/row-tools.svg" width="95%" alt="security tools"/>
 
 <br/><br/>
 
@@ -57,9 +47,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/VURNCHECK-WEB_SECURITY_ANALYSIS-0B6B4F?style=for-the-badge&labelColor=030806"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PHISHING_DETECTION-THREAT_ANALYSIS-FF7A00?style=for-the-badge&labelColor=030806"/>
+<img src="assets/row-projects.svg" width="95%" alt="project tags"/>
 
 <br/><br/>
 
@@ -102,10 +90,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-CERTIFIED-0B3D2E?style=for-the-badge&labelColor=030806"/>
-<img src="https://img.shields.io/badge/WEB_SECURITY-LABS-0B3D2E?style=for-the-badge&labelColor=030806"/>
-<img src="https://img.shields.io/badge/NETWORKING-COMPLETE-0B3D2E?style=for-the-badge&labelColor=030806"/>
-<img src="https://img.shields.io/badge/MCA-IN_PROGRESS-FF7A00?style=for-the-badge&labelColor=030806"/>
+<img src="assets/row-clearance.svg" width="95%" alt="clearance"/>
 
 <br/><br/>
 
@@ -116,17 +101,25 @@
 <br/>
 
 <a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7">
-  <img src="assets/cisco-card.svg" width="90%" alt="Cisco Networking Academy — Ethical Hacker (verified on Credly)"/>
+  <img src="assets/cisco-card.svg" width="92%" alt="Cisco Networking Academy - Ethical Hacker (verified on Credly)"/>
 </a>
 
 <br/>
 
-<sub>Completed the <b>Cisco Networking Academy Ethical Hacker</b> course — hands-on labs in vulnerability assessment, penetration testing, security testing and mitigation strategies.</sub>
+<img src="assets/cisco-marquee.svg" width="92%" alt="Cisco certification ticker"/>
 
-<br/><br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1200&color=8FFFCB&center=true&vCenter=true&width=850&height=60&lines=Completed+the+Cisco+Networking+Academy+Ethical+Hacker+course;Hands-on+labs+in+vulnerability+assessment+and+penetration+testing;Security+testing+and+mitigation+strategies;Verified+digital+badge+issued+on+Credly" alt="certification description"/>
+
+<br/>
+
+<img src="assets/row-certskills.svg" width="95%" alt="certified skills"/>
+
+<br/>
 
 <a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7">
-<img src="https://img.shields.io/badge/VIEW_VERIFIED_BADGE-OPEN_ON_CREDLY-FF7A00?style=for-the-badge&logo=cisco&logoColor=030806&labelColor=030806" alt="View verified badge on Credly"/>
+  <img src="assets/btn-credly.svg" alt="Verify on Credly"/>
 </a>
 
 <br/><br/>
@@ -135,11 +128,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/01-WEB_SECURITY-0B6B4F?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/02-VULNERABILITY_ASSESSMENT-0B6B4F?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/03-SOC%2FDEFENSIVE_SECURITY-FF7A00?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/04-DIGITAL_FORENSICS-FFB000?style=flat-square&labelColor=030806"/>
-<img src="https://img.shields.io/badge/05-CYBER_PROJECTS-0B6B4F?style=flat-square&labelColor=030806"/>
+<img src="assets/row-ops.svg" width="95%" alt="active operations"/>
 
 <br/><br/>
 
@@ -153,9 +142,9 @@
 
 <br/>
 
-<a href="https://github.com/mahadevsurya14-sys"><img src="https://img.shields.io/badge/GITHUB-030806?style=for-the-badge&logo=github&logoColor=8FFFCB"/></a>
-<a href="https://www.linkedin.com/in/mahadev-suryavanshi-b177a7305/"><img src="https://img.shields.io/badge/LINKEDIN-030806?style=for-the-badge&logo=linkedin&logoColor=FF7A00"/></a>
-<a href="https://medium.com/@mahadevsurya14"><img src="https://img.shields.io/badge/MEDIUM-030806?style=for-the-badge&logo=medium&logoColor=FFB000"/></a>
+<a href="https://github.com/mahadevsurya14-sys"><img src="assets/btn-github.svg" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/mahadev-suryavanshi-b177a7305/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://medium.com/@mahadevsurya14"><img src="assets/btn-medium.svg" alt="Medium"/></a>
 
 <br/><br/>
 <img src="assets/divider.svg" width="90%"/>
