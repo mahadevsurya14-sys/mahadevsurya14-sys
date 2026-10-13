@@ -1,119 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030806,35:09291D,70:0B3D2E,100:FF7A00&height=280&section=header&text=CyberTechMahaduuu&fontSize=52&fontColor=E8FFF4&fontAlignY=36&animation=fadeIn&stroke=FF7A00&strokeWidth=1&desc=CYBERSECURITY%20%E2%80%A2%20WEB%20SECURITY%20%E2%80%A2%20DIGITAL%20FORENSICS&descSize=17&descAlignY=58" alt="header" width="100%"/>
+<!-- ================= HERO BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030806,35:09291D,70:0B3D2E,100:FF7A00&height=280&section=header&text=CyberTechMahaduuu&fontSize=50&fontColor=E8FFF4&fontAlignY=36&animation=fadeIn&stroke=FF7A00&strokeWidth=1&desc=CYBERSECURITY%20%E2%80%A2%20SOC%20DEFENSE%20%E2%80%A2%20DIGITAL%20FORENSICS&descSize=16&descAlignY=58&descColor=8FFFCB" alt="header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1200&color=FF8A1F&center=true&vCenter=true&width=850&height=42&lines=%5B+SYSTEM+ONLINE+%5D+%2F%2F+SECURITY+MONITORING+ACTIVE;THREAT+INTELLIGENCE+%7C+WEB+SECURITY+%7C+FORENSICS;AUTHORIZED+OPERATIONS+ONLY+-+LEARN+%7C+BUILD+%7C+SECURE" alt="status"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=2400&pause=900&color=FFB000&center=true&vCenter=true&width=850&height=38&lines=STATUS%3A+ONLINE++%E2%80%A2++CISCO+ETHICAL+HACKER++%E2%80%A2++SECURITY+LEVEL+05" alt="animated"/>
+<!-- ================= LIVE HUD STATUS ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9D?style=for-the-badge&logo=gnubash&logoColor=030806&labelColor=030806" alt="System Online"/>
+  <img src="https://img.shields.io/badge/CLEARANCE-CISCO_ETHICAL_HACKER-FF7A00?style=for-the-badge&logo=cisco&logoColor=white&labelColor=030806" alt="Cisco Certified"/>
+  <img src="https://img.shields.io/badge/DEFENSE_LEVEL-05_MAX-FFB000?style=for-the-badge&logo=shield&logoColor=white&labelColor=030806" alt="Security Level"/>
+  <img src="https://komarev.com/ghpvc/?username=mahadevsurya14-sys&label=RADAR_VISITORS&color=00FF9D&style=for-the-badge&base=1000" alt="Visitor Counter"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=1100&color=FF8A1F&center=true&vCenter=true&width=850&height=42&lines=%5B%2B%5D+INITIALIZING+SECURITY+PROTOCOLS...;THREAT+INTELLIGENCE+%7C+PENETRATION+TESTING+%7C+SOC+OPERATIONS;THINK+LIKE+AN+ATTACKER+%E2%80%A2+DEFEND+LIKE+AN+ENGINEER" alt="typing-status"/>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030806,30:0B6B4F,60:8FFFCB,100:FF7A00&height=3&section=header" alt="divider" width="90%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B01%5D+%2F%2F+IDENTITY+%26+MISSION" alt="IDENTITY & MISSION"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=1600&pause=2800&color=E8FFF4&center=true&vCenter=true&width=850&height=170&multiline=true&lines=%24+whoami;mahadev_suryavanshi;%24+role;cybersecurity_fresher+%7C+bca_graduate+%7C+mca_student;%24+certified;cisco_ethical_hacker++%5BVERIFIED%5D;%24+mission;understand_attacks+-%3E+detect_threats+-%3E+build_secure_systems" alt="terminal"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=13&duration=2400&pause=900&color=8FFFCB&center=true&vCenter=true&width=850&height=40&lines=WEB+SECURITY++%E2%80%A2++NETWORKING++%E2%80%A2++DIGITAL+FORENSICS++%E2%80%A2++VULNERABILITY+ASSESSMENT++%E2%80%A2++SOC+DEFENSE" alt="animated"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF8A1F&center=true&vCenter=true&width=850&height=50&lines=%5B02%5D+%2F%2F+ARSENAL+-+SECURITY+STACK" alt="ARSENAL - SECURITY STACK"/>
-
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,python,java,mysql,bash,git,github,vscode&theme=dark" alt="stack"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=15&duration=2400&pause=900&color=FFB000&center=true&vCenter=true&width=850&height=44&lines=BURP+SUITE++%E2%80%A2++NMAP++%E2%80%A2++WIRESHARK++%E2%80%A2++METASPLOIT;NESSUS++%E2%80%A2++WAZUH++%E2%80%A2++AUTOPSY++%E2%80%A2++FTK+IMAGER" alt="animated"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B03%5D+%2F%2F+CASE+FILES+-+PROJECTS" alt="CASE FILES - PROJECTS"/>
-
 <br/>
 
-<a href="https://github.com/mahadevsurya14-sys/bugbounty-ai"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=900&color=FF8A1F&center=true&vCenter=true&width=420&height=60&lines=%2F%2F+PROJECT+01;BUGBOUNTY-AI;AI+%E2%80%A2+BUG+BOUNTY+%E2%80%A2+SECURITY;OPEN+REPO++-%3E" alt="bugbounty-ai"/></a>
+</div>
 
-<a href="https://github.com/mahadevsurya14-sys/Web-Vulnerability-Assessment-Tool"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=15&duration=2200&pause=900&color=8FFFCB&center=true&vCenter=true&width=420&height=60&lines=%2F%2F+PROJECT+02;WEB-VULNERABILITY-ASSESSMENT-TOOL;WEB+%E2%80%A2+VULNERABILITY+%E2%80%A2+ASSESSMENT;OPEN+REPO++-%3E" alt="vuln tool"/></a>
+<!-- ================= 01. TERMINAL WHOAMI ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=45&lines=%5B01%5D+%2F%2F+IDENTITY+%26+TELEMETRY" alt="Identity & Mission"/>
+</div>
 
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=2400&pause=900&color=FF7A00&center=true&vCenter=true&width=850&height=40&lines=VURNCHECK++%E2%80%A2++WEB+SECURITY+ANALYSIS;PHISHING+DETECTION++%E2%80%A2++THREAT+ANALYSIS" alt="animated"/>
+```bash
+┌──(mahadev㉿security-box)-[~]
+└─$ whoami
+mahadev_suryavanshi
 
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF8A1F&center=true&vCenter=true&width=850&height=50&lines=%5B04%5D+%2F%2F+RED+%3C-%3E+BLUE+-+THINK+LIKE+AN+ATTACKER%2C+DEFEND+LIKE+AN+ENGINEER" alt="RED <-> BLUE - THINK LIKE AN ATTACKER, DEFEND LIKE AN ENGINEER"/>
+┌──(mahadev㉿security-box)-[~]
+└─$ cat clearance_profile.json
+{
+  "operator"   : "Mahadev Suryavanshi (CyberTechMahaduuu)",
+  "role"       : "Cybersecurity Specialist | SOC Analyst & PenTester",
+  "academics"  : "BCA Graduate ──> Master of Computer Applications (MCA)",
+  "verified"   : "Cisco Ethical Hacker (Credly Verified)",
+  "mission"    : "Deconstruct Attacks ──> Detect Threats ──> Harden Infrastructure"
+}
+```
 
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=1200&color=FFB000&center=true&vCenter=true&width=850&height=44&lines=RED+TEAM++%5BATTACK%5D++%3C-%3E++SOC++%3C-%3E++%5BDEFEND%5D++BLUE+TEAM" alt="red blue"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B05%5D+%2F%2F+CYBER+LAB+-+CONTROL+TOPOLOGY" alt="CYBER LAB - CONTROL TOPOLOGY"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=1200&color=8FFFCB&center=true&vCenter=true&width=850&height=44&lines=ATTACK++-%3E++LAB++-%3E++SOC++-%3E++DEFENSE;VULNERABILITY+TESTING;MONITOR+-%3E+DETECT+-%3E+INVESTIGATE+-%3E+RESPOND" alt="lab"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF8A1F&center=true&vCenter=true&width=850&height=50&lines=%5B06%5D+%2F%2F+TELEMETRY+-+GITHUB+ACTIVITY" alt="TELEMETRY - GITHUB ACTIVITY"/>
-
-<br/>
-<img src="https://streak-stats.demolab.com?user=mahadevsurya14-sys&hide_border=true&background=030806&ring=FF7A00&fire=FF8A1F&currStreakNum=8FFFCB&sideNums=E8FFF4&currStreakLabel=FFB000&sideLabels=8FFFCB&dates=6A9B87" alt="streak"/>
-
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadevsurya14-sys&bg_color=030806&color=8FFFCB&line=0B6B4F&point=FF7A00&area=true&area_color=0B3D2E&hide_border=true&hide_title=true" alt="activity" width="95%"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FFB000&center=true&vCenter=true&width=850&height=50&lines=%5B07%5D+%2F%2F+CLEARANCE+PATH+-+LEARNING+TIMELINE" alt="CLEARANCE PATH - LEARNING TIMELINE"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1200&color=8FFFCB&center=true&vCenter=true&width=850&height=44&lines=BCA++-%3E++CYBER+SKILLS++-%3E++CISCO+ETHICAL+HACKER++-%3E++MCA++-%3E++SECURITY+OPS" alt="timeline"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=2400&pause=900&color=FF8A1F&center=true&vCenter=true&width=850&height=44&lines=ETHICAL+HACKING+%E2%80%A2+CERTIFIED++%7C++WEB+SECURITY+%E2%80%A2+LABS;NETWORKING+%E2%80%A2+COMPLETE++%7C++MCA+%E2%80%A2+IN+PROGRESS" alt="animated"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B08%5D+%2F%2F+CERTIFICATIONS+-+VERIFIED+CREDENTIALS" alt="CERTIFICATIONS - VERIFIED CREDENTIALS"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030806,30:0B6B4F,60:8FFFCB,100:FF7A00&height=2&section=header" alt="divider" width="80%"/>
+</div>
 
 <br/>
 
-<a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:030806,40:0B3D2E,100:FF7A00&height=130&section=header&text=CISCO%20ETHICAL%20HACKER&fontSize=40&fontColor=E8FFF4&fontAlignY=42&animation=twinkling&stroke=FF7A00&strokeWidth=2&desc=VERIFIED%20DIGITAL%20BADGE&descSize=16&descAlignY=72&descColor=8FFFCB" alt="Cisco Ethical Hacker" width="92%"/></a>
+<!-- ================= 02. ARSENAL & SECURITY STACK ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF8A1F&center=true&vCenter=true&width=850&height=45&lines=%5B02%5D+%2F%2F+TACTICAL+ARSENAL+-+TECH+STACK" alt="Arsenal"/>
+</div>
+
+<div align="center">
+
+#### ⚔️ Offensive & Penetration Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-146EB4?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-002B36?style=flat-square&logo=gnubash&logoColor=00FF9D" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-005A9C?style=flat-square&logo=owasp&logoColor=white" />
+</p>
+
+#### 🛡️ Defensive, SOC & Digital Forensics
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh_SIEM-00A4E4?style=flat-square&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-23AC4B?style=flat-square&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autopsy_Forensics-3D5A80?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FTK_Imager-FF7A00?style=flat-square&logo=micro-editor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+#### 💻 Development & System Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,java,mysql,bash,git,github,vscode&theme=dark" alt="dev-stack"/>
+</p>
+
+</div>
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1100&color=FF8A1F&center=true&vCenter=true&width=850&height=50&lines=Cisco+Networking+Academy;Issued%3A+Oct+11%2C+2026++%7C++Platform%3A+Credly++%7C++Status%3A+VERIFIED;Hands-on+labs%3A+vulnerability+assessment+and+penetration+testing;Security+testing+and+mitigation+strategies" alt="cert info"/>
+
+<!-- ================= 03. CASE FILES / FEATURED PROJECTS ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=45&lines=%5B03%5D+%2F%2F+CASE+FILES+-+SECURITY+PROJECTS" alt="Projects"/>
+</div>
+
+<table align="center" width="95%" style="border-collapse: collapse; border: 1px solid #0B6B4F;">
+  <tr>
+    <td width="50%" align="center" style="background-color: #030806; padding: 15px; vertical-align: top; border: 1px solid #0B3D2E;">
+      <h3>🎯 <code>BUGBOUNTY-AI</code></h3>
+      <p><b>Next-Gen Automated Bug Bounty & Reconnaissance Tool powered by Artificial Intelligence.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-Recon-FF7A00?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-BugBounty-00FF9D?style=flat-square&logo=shield&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mahadevsurya14-sys/bugbounty-ai">
+        <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-FF7A00?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td width="50%" align="center" style="background-color: #030806; padding: 15px; vertical-align: top; border: 1px solid #0B3D2E;">
+      <h3>🛡️ <code>WEB-VULN-SCANNER</code></h3>
+      <p><b>Comprehensive Web Application Vulnerability Assessment & Security Scanner.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Assessment-Vulnerability-8FFFCB?style=flat-square&logo=securityscorecard&logoColor=black"/>
+        <img src="https://img.shields.io/badge/OWASP-Top_10-FFB000?style=flat-square&logo=owasp&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bash%2FPython-Automation-green?style=flat-square"/>
+      </p>
+      <a href="https://github.com/mahadevsurya14-sys/Web-Vulnerability-Assessment-Tool">
+        <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00FF9D?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=2400&pause=900&color=8FFFCB&center=true&vCenter=true&width=850&height=44&lines=ETHICAL+HACKING++%E2%80%A2++PENETRATION+TESTING++%E2%80%A2++VULNERABILITY+ASSESSMENT;KALI+LINUX++%E2%80%A2++SECURITY+TESTING" alt="animated"/>
+
+<!-- ================= 04. RED TEAM <-> BLUE TEAM ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF8A1F&center=true&vCenter=true&width=850&height=45&lines=%5B04%5D+%2F%2F+PURPLE+TEAM+FRAMEWORK" alt="Framework"/>
+</div>
+
+<table align="center" width="95%" style="border-collapse: collapse;">
+  <tr align="center">
+    <td width="33%" style="background-color: #030806; border: 1px solid #FF3333; padding: 12px;">
+      <h4 style="color: #FF4D4D;">🔴 RED TEAM [OFFENSE]</h4>
+      <p style="font-size: 13px;">Reconnaissance • Weaponization • Exploitation • Privilege Escalation • Web App Testing</p>
+    </td>
+    <td width="33%" style="background-color: #030806; border: 1px solid #FF7A00; padding: 12px;">
+      <h4 style="color: #FFB000;">⚡ SOC [DETECTION]</h4>
+      <p style="font-size: 13px;">SIEM Monitoring • Log Correlation • Incident Analysis • Threat Intelligence Hunting</p>
+    </td>
+    <td width="33%" style="background-color: #030806; border: 1px solid #00FF9D; padding: 12px;">
+      <h4 style="color: #00FF9D;">🔵 BLUE TEAM [DEFENSE]</h4>
+      <p style="font-size: 13px;">Hardening • Patch Management • Digital Forensics • Incident Response • Containment</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
-<a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=900&color=FFB000&center=true&vCenter=true&width=500&height=50&lines=%3E%3E+VERIFY+ON+CREDLY+%3C%3C;CLICK+TO+OPEN+VERIFIED+BADGE" alt="verify on credly"/></a>
 
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B09%5D+%2F%2F+ACTIVE+OPERATIONS" alt="ACTIVE OPERATIONS"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=2400&pause=900&color=FFB000&center=true&vCenter=true&width=850&height=44&lines=01+WEB+SECURITY++%E2%80%A2++02+VULNERABILITY+ASSESSMENT++%E2%80%A2++03+SOC+%2F+DEFENSIVE+SECURITY;04+DIGITAL+FORENSICS++%E2%80%A2++05+CYBER+PROJECTS" alt="animated"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF7A00&center=true&vCenter=true&width=850&height=50&lines=%5B10%5D+%2F%2F+DOCTRINE" alt="DOCTRINE"/>
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=E8FFF4&center=true&vCenter=true&width=850&height=60&lines=THINK+LIKE+AN+ATTACKER.;INVESTIGATE+LIKE+AN+ANALYST.;DEFEND+LIKE+A+SECURITY+ENGINEER." alt="doctrine"/>
-
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=50&lines=%5B11%5D+%2F%2F+SECURE+CHANNELS" alt="SECURE CHANNELS"/>
-
+<!-- ================= 05. VERIFIED CREDENTIALS ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=45&lines=%5B05%5D+%2F%2F+VERIFIED+CLEARANCE" alt="Certifications"/>
 <br/>
 
-<a href="https://github.com/mahadevsurya14-sys"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=18&duration=1600&pause=700&color=8FFFCB&center=true&vCenter=true&width=200&height=40&lines=%5B+GITHUB+%5D;%3E%3E+GITHUB+%3C%3C" alt="GITHUB"/></a>
+<a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030806,40:0B3D2E,100:FF7A00&height=125&section=header&text=CISCO%20ETHICAL%20HACKER&fontSize=38&fontColor=E8FFF4&fontAlignY=42&animation=twinkling&stroke=FF7A00&strokeWidth=2&desc=%E2%9C%94%20OFFICIAL%20CREDLY%20VERIFIED%20DIGITAL%20BADGE&descSize=15&descAlignY=72&descColor=8FFFCB" alt="Cisco Ethical Hacker" width="92%"/>
+</a>
 
-<a href="https://www.linkedin.com/in/mahadev-suryavanshi-b177a7305/"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=18&duration=1600&pause=700&color=FF7A00&center=true&vCenter=true&width=200&height=40&lines=%5B+LINKEDIN+%5D;%3E%3E+LINKEDIN+%3C%3C" alt="LINKEDIN"/></a>
+<p align="center">
+  <b>Issuer:</b> Cisco Networking Academy &nbsp;|&nbsp; 
+  <b>Verified via:</b> Credly &nbsp;|&nbsp; 
+  <b>Specialization:</b> Network Defense, PenTesting & Vulnerability Mitigation
+</p>
 
-<a href="https://medium.com/@mahadevsurya14"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=18&duration=1600&pause=700&color=FFB000&center=true&vCenter=true&width=200&height=40&lines=%5B+MEDIUM+%5D;%3E%3E+MEDIUM+%3C%3C" alt="MEDIUM"/></a>
+<a href="https://www.credly.com/badges/ee54a53c-2fe7-406b-804e-17eb4633b9f7" target="_blank">
+  <img src="https://img.shields.io/badge/%3E%3E_CLICK_TO_VERIFY_BADGE_ON_CREDLY_%3C%3C-FF7A00?style=for-the-badge&logo=credly&logoColor=white" alt="Verify Credly"/>
+</a>
 
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030806,30:0B6B4F,60:8FFFCB,100:FF7A00&height=3&section=header" alt="divider" width="90%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030806,40:09291D,75:0B3D2E,100:FF7A00&height=220&section=footer&reversal=true&text=THE%20HUNT%20NEVER%20ENDS.&fontSize=38&fontColor=E8FFF4&fontAlignY=62&animation=fadeIn&stroke=FF7A00&strokeWidth=1" alt="footer" width="100%"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=15&duration=4000&pause=1500&color=FF8A1F&center=true&vCenter=true&width=850&height=35&lines=STAY+CURIOUS++%E2%80%A2++STAY+ETHICAL++%E2%80%A2++STAY+SECURE" alt="footer"/>
+<!-- ================= 06. TELEMETRY & STATS ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=FF8A1F&center=true&vCenter=true&width=850&height=45&lines=%5B06%5D+%2F%2F+TELEMETRY+-+GITHUB+METRICS" alt="Telemetry"/>
+<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadevsurya14-sys&show_icons=true&theme=tokyonight&bg_color=030806&title_color=FF7A00&icon_color=00FF9D&text_color=E8FFF4&border_color=0B6B4F" alt="Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mahadevsurya14-sys&hide_border=false&background=030806&border=0B6B4F&ring=FF7A00&fire=FF8A1F&currStreakNum=8FFFCB&sideNums=E8FFF4&currStreakLabel=FFB000&sideLabels=8FFFCB&dates=6A9B87" alt="Streak" height="165"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadevsurya14-sys&bg_color=030806&color=8FFFCB&line=0B6B4F&point=FF7A00&area=true&area_color=0B3D2E&hide_border=false&border_color=0B6B4F&hide_title=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ================= 07. SECURE CHANNELS ================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1300&color=8FFFCB&center=true&vCenter=true&width=850&height=45&lines=%5B07%5D+%2F%2F+SECURE+COMMS+-+CONNECT" alt="Connect"/>
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahadev-suryavanshi-b177a7305/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mahadevsurya14-sys" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@mahadevsurya14" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030806,40:09291D,75:0B3D2E,100:FF7A00&height=200&section=footer&reversal=true&text=THE%20HUNT%20NEVER%20ENDS.&fontSize=36&fontColor=E8FFF4&fontAlignY=62&animation=fadeIn&stroke=FF7A00&strokeWidth=1" alt="footer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=3500&pause=1200&color=FF8A1F&center=true&vCenter=true&width=850&height=35&lines=STAY+CURIOUS++%E2%80%A2++STAY+ETHICAL++%E2%80%A2++STAY+SECURE" alt="footer-sub"/>
 
 </div>
